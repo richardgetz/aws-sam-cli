@@ -309,6 +309,7 @@ celerybeat-schedule.*
 # AWS SAM
 build.toml
 build_dir/
+.deps/
 # Environments
 .venv
 env/
